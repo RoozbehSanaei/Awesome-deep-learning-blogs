@@ -1,6 +1,6 @@
 # Useful Machine Learning Stuff
 
-A curated list of awesome Machine Leaning tuturials, projects
+A curated list of awesome Machine Leaning tuturials, projects, troubleshootings, ...
 
 ## What is TensorFlow?
 
