@@ -1,6 +1,6 @@
 # Useful Machine Learning Stuff
 
-A curated list of awesome Machine Leaning tuturials, projects, troubleshootings, ...
+A curated list of machine Leaning concepts, impelmentations, troubleshootings, ...
 
 ## Table of Contents
 
