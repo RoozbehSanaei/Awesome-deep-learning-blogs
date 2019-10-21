@@ -22,6 +22,7 @@ A curated list of awesome Machine Leaning tuturials, projects, troubleshootings,
 <a name="github-tutorials" />
 
 ## Tutorials
+* [Train Mask-RCNN with Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/) - In this tutorial, you will discover how to develop a Mask R-CNN model for kangaroo object detection in photographs.
 
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
