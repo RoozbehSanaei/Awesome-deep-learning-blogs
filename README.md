@@ -5,7 +5,7 @@ A curated list of awesome Machine Leaning tuturials, projects, troubleshootings,
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Concepts](#github-tutorials)
+- [Concepts](#concepts)
 - [Tutorials](#github-tutorials)
 - [Models/Projects](#github-projects)
 - [Powered by TensorFlow](#github-powered-by)
@@ -19,9 +19,9 @@ A curated list of awesome Machine Leaning tuturials, projects, troubleshootings,
 
 <!-- /MarkdownTOC -->
 <a name="concepts" />
-## Concepts
-* [Batch normalization in Neural Networks](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c) - This article explains batch normalization in a simple way.
 
+## Tutorials
+* [Train Mask-RCNN with Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/) - In this tutorial, you will discover how to develop a Mask R-CNN model for kangaroo object detection in photographs.
 
 <a name="github-tutorials" />
 
