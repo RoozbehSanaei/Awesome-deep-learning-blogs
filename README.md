@@ -1,6 +1,6 @@
-# Awesome TensorFlow  (Just a test)
+# Useful Machine Learning Stuff
 
-A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
+A curated list of awesome Machine Leaning tuturials, projects
 
 ## What is TensorFlow?
 
