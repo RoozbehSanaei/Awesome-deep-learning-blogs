@@ -2,7 +2,6 @@
 
 A curated list of awesome Machine Leaning tuturials, projects, troubleshootings, ...
 
-
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
