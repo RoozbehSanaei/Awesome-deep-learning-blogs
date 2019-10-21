@@ -19,8 +19,8 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 <a name="github-tutorials" />
 
 ## Tensorflow Implementations
-* [Train Mask-RCNN with Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/) - In this tutorial, you will discover how to develop a Mask R-CNN model for kangaroo object detection in photographs.
+* [Mask-RCNN with Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/) - In this tutorial, you will discover how to develop a Mask R-CNN model for kangaroo object detection in photographs.
 
-* [Train Yolov3 with Tensorflow 2](https://github.com/YunYang1994/tensorflow-yolov3) - Implementation of YOLO v3 object detector in Tensorflow 2.0.
+* [Yolov3 with Tensorflow 2](https://github.com/YunYang1994/tensorflow-yolov3) - Implementation of YOLO v3 object detector in Tensorflow 2.0.
 
-* [Train Yolov3 with Tensorflow 1](https://github.com/qqwweee/keras-yolo3) - Implementation of YOLO v3 object detector in Tensorflow 1.6.
+* [Yolov3 with Tensorflow 1](https://github.com/qqwweee/keras-yolo3) - Implementation of YOLO v3 object detector in Tensorflow 1.6.
