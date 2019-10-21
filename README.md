@@ -6,7 +6,7 @@ A curated list of awesome Machine Leaning tuturials, projects, troubleshootings,
 
 <!-- MarkdownTOC depth=4 -->
 - [Concepts](#concepts)
-- [Tutorials](#github-tutorials)
+- [Tensorflow Implementation](#github-tutorials)
 - [Models/Projects](#github-projects)
 - [Powered by TensorFlow](#github-powered-by)
 - [Libraries](#libraries)
@@ -25,8 +25,10 @@ A curated list of awesome Machine Leaning tuturials, projects, troubleshootings,
 
 <a name="github-tutorials" />
 
-## Tutorials
+## Tensorflow Implementation
 * [Train Mask-RCNN with Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/) - In this tutorial, you will discover how to develop a Mask R-CNN model for kangaroo object detection in photographs.
+
+* [Train Yolov3 with Tensorflow 2](https://github.com/YunYang1994/tensorflow-yolov3) - Implementation of YOLO v3 object detector in Tensorflow 2.0.
 
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
