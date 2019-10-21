@@ -5,6 +5,7 @@ A curated list of awesome Machine Leaning tuturials, projects, troubleshootings,
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
+- [Concepts](#github-tutorials)
 - [Tutorials](#github-tutorials)
 - [Models/Projects](#github-projects)
 - [Powered by TensorFlow](#github-powered-by)
@@ -17,6 +18,9 @@ A curated list of awesome Machine Leaning tuturials, projects, troubleshootings,
 - [Books](#books)
 
 <!-- /MarkdownTOC -->
+<a name="concepts" />
+## Concepts
+* [Batch normalization in Neural Networks](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c) - This article explains batch normalization in a simple way.
 
 
 <a name="github-tutorials" />
