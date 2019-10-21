@@ -2,13 +2,6 @@
 
 A curated list of awesome Machine Leaning tuturials, projects, troubleshootings, ...
 
-## What is TensorFlow?
-
-TensorFlow is an open source software library for numerical computation using data flow graphs. In other words, the best way to build deep learning models.
-
-More info [here](http://tensorflow.org).
-
-
 
 ## Table of Contents
 
