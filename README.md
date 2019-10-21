@@ -1,4 +1,4 @@
-# Useful Machine Learning Stuff
+# Useful Machine Learning 
 
 A curated list of machine Leaning concepts, impelmentations, troubleshootings, ...
 
