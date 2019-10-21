@@ -23,6 +23,8 @@ A curated list of awesome Machine Leaning tuturials, projects, troubleshootings,
 ## Concepts
 * [Batch normalization in Neural Networks](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c) - This article explains batch normalization in a simple way.
 
+* [Different Types of Convolutions](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215) - Visual Explanation of 2D / 3D / 1x1 / Transposed / Dilated (Atrous) / Spatially Separable / Depthwise Separable / Flattened / Grouped / Shuffled Grouped Convolutions
+
 <a name="github-tutorials" />
 
 ## Tensorflow Implementation
