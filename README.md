@@ -16,6 +16,8 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [Different Types of Convolutions](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215) - Visual introduction to 2D / 3D / 1x1 / Transposed / Dilated (Atrous) / Spatially Separable / Depthwise Separable / Flattened / Grouped / Shuffled Grouped Convolutions
 
+* [RMSprop for faster neural network training](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a) - Explains RMSprop an unpublished optimization algorithm designed for neural networks, first proposed by Geoff Hinton in lecture 6 of the online course “Neural Networks for Machine Learning” 
+
 <a name="github-tutorials" />
 
 ## Tensorflow Implementations
