@@ -17,7 +17,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [Batch normalization](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c) - Simple explanation of batch normalization
 
-* [Simplified Math Behind Dropout](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275)
+* [Dropout Math](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275)
 
 ### Convolution
 
