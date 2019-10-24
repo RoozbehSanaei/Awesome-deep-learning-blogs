@@ -50,6 +50,13 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 <a name="github-tutorials" />
 
+## Architecture
+### Residual Units
+* [ResNet,ResNext,Densely Connected CNN](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+
+
+
+
 ##  Implementations
 ### Tensorflow
 * [Mask-RCNN + Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/) - In this tutorial, you will discover how to develop a Mask R-CNN model for kangaroo object detection in photographs
@@ -57,3 +64,5 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [Yolov3 + Tensorflow 2](https://github.com/YunYang1994/tensorflow-yolov3) - Implementation of YOLO v3 object detector in Tensorflow 2.0
 
 * [Yolov3 + Tensorflow 1](https://github.com/qqwweee/keras-yolo3) - Implementation of YOLO v3 object detector in Tensorflow 1.6
+
+
