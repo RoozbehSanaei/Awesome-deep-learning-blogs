@@ -27,6 +27,8 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient) -
 
+* [Overview	of	mini-batch	gradient	descent	](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) -
+
 
 <a name="github-tutorials" />
 
