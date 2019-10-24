@@ -52,7 +52,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 ## Architecture
 ### Residual Units
-* [ResNet,ResNext,Densely Connected CNN](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+* [ResNet,ResNext,Densely Connected CNN,ResNet as an Ensemble of Smaller Networks](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 
 
 
