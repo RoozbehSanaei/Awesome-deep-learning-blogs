@@ -29,7 +29,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [RMSprop,RProp,Adagrad](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a)
 
-* [Batch/Stochastic/Mini-batch gradient descent/Momentum / Nesterov accelerated gradient/Adagrad/Adadelta/RMSprop/Adam/AdaMax/Nadam/AMSGrad](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient)
+* [Batch,Stochastic,Mini-batch gradient descent,Momentum,Nesterov accelerated gradient,Adagrad,Adadelta,RMSprop,Adam,AdaMax,Nadam,AMSGrad](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient)
 
 * [Gradient descent optimization algorithms 2](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) 
 
