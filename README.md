@@ -38,8 +38,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [Activation Functions in Deep Learning (Sigmoid, ReLU, LReLU, PReLU, RReLU, ELU, Softmax)](http://laid.delanover.com/activation-functions-in-deep-learning-sigmoid-relu-lrelu-prelu-rrelu-elu-softmax/) - 
 
 ### Loss Functions
-* [A Practical Guide to ReLU](https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/) - A Detailed Guide to multiple Loss Functions
-
+* [A Detailed Guide to multiple Loss Functions](https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/) - MSE,MAE,Huber Loss,Cross Entropy, Hinge Loss, Softmax,  KL-Divergence
 
 <a name="github-tutorials" />
 
