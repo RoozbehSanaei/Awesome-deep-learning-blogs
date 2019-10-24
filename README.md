@@ -44,7 +44,6 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained) - 
 
-
 <a name="github-tutorials" />
 
 ##  Implementations
