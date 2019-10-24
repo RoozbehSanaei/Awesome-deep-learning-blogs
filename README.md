@@ -15,15 +15,15 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 ### Regularization
 
-* [Batch normalization](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c) - Simple explanation of batch normalization
+* [Batch normalization](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c) 
 
 * [Dropout Math](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275)
 
 ### Convolution
 
-* [Different Types of Convolutions](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215) - Visual introduction to 2D / 3D / 1x1 / Transposed / Dilated (Atrous) / Spatially Separable / Depthwise Separable / Flattened / Grouped / Shuffled Grouped Convolutions
-
-* [Different Types of Pooling](https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/) Max Pooling/Average Pooling/Global Average Pooling
+* [2D / 3D / 1x1 / Transposed / Dilated (Atrous) / Spatially Separable / Depthwise Separable / Flattened / Grouped / Shuffled Grouped Convolutions](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215) 
+ 
+* [Max Pooling/Average Pooling/Global Average Pooling](https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/) 
 
 ### Optimization
 
