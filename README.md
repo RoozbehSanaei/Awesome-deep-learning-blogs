@@ -29,13 +29,13 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [RMSprop,RProp,Adagrad](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a)
 
-* [Gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient) - Batch/Stochastic/Mini-batch gradient descent/...
+* [Batch/Stochastic/Mini-batch gradient descent/Momentum / Nesterov accelerated gradient/Adagrad/Adadelta/RMSprop/Adam/AdaMax/Nadam/AMSGrad](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient)
 
 * [Gradient descent optimization algorithms 2](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) 
 
 ### Activation Functions
 
-* [A Practical Guide to ReLU](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7)
+* [ReLu,Leaky ReLu,PRelu,Elu,Selu,CRelu,Relu-6](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7)
 
 * [GELU, SELU, ELU, ReLU](https://mlfromscratch.com/activation-functions-explained/)
 
