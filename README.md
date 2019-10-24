@@ -18,6 +18,9 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [RMSprop for faster neural network training](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a) - Explains RMSprop in comparison with RProp and Adagrad
 
+* [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient) -
+
+
 <a name="github-tutorials" />
 
 ## Tensorflow Implementations
