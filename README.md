@@ -51,8 +51,11 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 <a name="github-tutorials" />
 
 ## Architecture
-### Residual Units
+### Residual Blocks
+* [Preactivation Resnet](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+
 * [ResNet,ResNext,Densely Connected CNN,ResNet as an Ensemble of Smaller Networks](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+
 
 
 
