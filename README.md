@@ -25,7 +25,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [RMSprop for faster neural network training](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a) - Explains RMSprop in comparison with RProp and Adagrad
 
-* [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient) -
+* [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient) - Batch/Stochastic/Mini-batch gradient descent
 
 * [Overview	of	mini-batch	gradient	descent	](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) -
 
