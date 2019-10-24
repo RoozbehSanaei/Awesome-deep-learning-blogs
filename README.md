@@ -21,7 +21,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 ### Convolution
 
-* [2D / 3D / 1x1 / Transposed / Dilated (Atrous) / Spatially Separable / Depthwise Separable / Flattened / Grouped / Shuffled Grouped Convolutions](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215) 
+* [2D , 3D , 1x1 , Transposed , Dilated (Atrous) , Spatially Separable , Depthwise Separable , Flattened , Grouped , Shuffled Grouped Convolutions](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215) 
  
 * [Max Pooling/Average Pooling/Global Average Pooling](https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/) 
 
