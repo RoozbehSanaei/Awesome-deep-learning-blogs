@@ -52,7 +52,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 ## Architecture
 ### Residual Blocks
-* [Preactivation Resnet](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+* [Preactivation Resnet](https://towardsdatascience.com/resnet-with-identity-mapping-over-1000-layers-reached-image-classification-bb50a42af03e)
 
 * [ResNet,ResNext,Densely Connected CNN,ResNet as an Ensemble of Smaller Networks](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 
