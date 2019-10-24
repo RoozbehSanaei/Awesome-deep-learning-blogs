@@ -29,6 +29,15 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [Overview	of	mini-batch	gradient	descent	](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) -
 
+### Activation Functions
+
+* [A Practical Guide to ReLU](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7) -
+
+* [Activation Functions Explained - GELU, SELU, ELU, ReLU and more](https://mlfromscratch.com/activation-functions-explained/) - 
+
+* [Activation Functions in Deep Learning (Sigmoid, ReLU, LReLU, PReLU, RReLU, ELU, Softmax)](http://laid.delanover.com/activation-functions-in-deep-learning-sigmoid-relu-lrelu-prelu-rrelu-elu-softmax/) - 
+
+
 
 <a name="github-tutorials" />
 
