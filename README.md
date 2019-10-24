@@ -41,7 +41,6 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [A Practical Guide to ReLU](https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/) - A Detailed Guide to multiple Loss Functions
 
 
-
 <a name="github-tutorials" />
 
 ##  Implementations
