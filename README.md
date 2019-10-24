@@ -27,24 +27,24 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 ### Optimization
 
-* [RMSprop,RProp,Adagrad](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a) - Explains RMSprop in comparison with RProp and Adagrad
+* [RMSprop,RProp,Adagrad](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a)
 
 * [Gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient) - Batch/Stochastic/Mini-batch gradient descent/...
 
-* [Gradient descent optimization algorithms 2](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) -
+* [Gradient descent optimization algorithms 2](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) 
 
 ### Activation Functions
 
-* [A Practical Guide to ReLU](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7) -
+* [A Practical Guide to ReLU](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7)
 
-* [GELU, SELU, ELU, ReLU](https://mlfromscratch.com/activation-functions-explained/) - 
+* [GELU, SELU, ELU, ReLU](https://mlfromscratch.com/activation-functions-explained/)
 
-* [Sigmoid, ReLU, LReLU, PReLU, RReLU, ELU, Softmax](http://laid.delanover.com/activation-functions-in-deep-learning-sigmoid-relu-lrelu-prelu-rrelu-elu-softmax/) - 
+* [Sigmoid, ReLU, LReLU, PReLU, RReLU, ELU, Softmax](http://laid.delanover.com/activation-functions-in-deep-learning-sigmoid-relu-lrelu-prelu-rrelu-elu-softmax/)
 
 ### Loss Functions
-* [MSE,MAE,Huber Loss,Cross Entropy, Hinge Loss, Softmax,  KL-Divergence](https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/) - 
+* [MSE,MAE,Huber Loss,Cross Entropy, Hinge Loss, Softmax,  KL-Divergence](https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/)
 
-* [Kullback-Leibler Divergence](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained) - 
+* [Kullback-Leibler Divergence](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained) 
 
 * [Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 
@@ -52,8 +52,8 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 ##  Implementations
 ### Tensorflow
-* [Mask-RCNN + Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/) - In this tutorial, you will discover how to develop a Mask R-CNN model for kangaroo object detection in photographs.
+* [Mask-RCNN + Keras](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/) - In this tutorial, you will discover how to develop a Mask R-CNN model for kangaroo object detection in photographs
 
-* [Yolov3 + Tensorflow 2](https://github.com/YunYang1994/tensorflow-yolov3) - Implementation of YOLO v3 object detector in Tensorflow 2.0.
+* [Yolov3 + Tensorflow 2](https://github.com/YunYang1994/tensorflow-yolov3) - Implementation of YOLO v3 object detector in Tensorflow 2.0
 
-* [Yolov3 + Tensorflow 1](https://github.com/qqwweee/keras-yolo3) - Implementation of YOLO v3 object detector in Tensorflow 1.6.
+* [Yolov3 + Tensorflow 1](https://github.com/qqwweee/keras-yolo3) - Implementation of YOLO v3 object detector in Tensorflow 1.6
