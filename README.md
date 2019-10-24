@@ -27,9 +27,9 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 ### Optimization
 
-* [RMSprop](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a) - Explains RMSprop in comparison with RProp and Adagrad
+* [RMSprop,RProp,Adagrad](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a) - Explains RMSprop in comparison with RProp and Adagrad
 
-* [Gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient) - Batch/Stochastic/Mini-batch gradient descent
+* [Gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient) - Batch/Stochastic/Mini-batch gradient descent/...
 
 * [Gradient descent optimization algorithms 2](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) -
 
