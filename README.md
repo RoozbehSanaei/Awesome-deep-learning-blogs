@@ -44,6 +44,8 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained) - 
 
+* [Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss] (https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+
 <a name="github-tutorials" />
 
 ##  Implementations
