@@ -57,6 +57,10 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [DenseNets](https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a)
 
+* [Squeeze-and-Excitation Networks] (https://towardsdatascience.com/squeeze-and-excitation-networks-9ef5e71eacd7)
+
+
+
 
 ### Inception Networks
 
