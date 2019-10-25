@@ -1,4 +1,4 @@
-# Deep Learning Blog Collection
+# Deep Learning Metabook
 
 A curated list of machine Leaning concepts, impelmentations, troubleshootings, ...
 
