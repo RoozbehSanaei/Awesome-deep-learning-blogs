@@ -76,6 +76,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 ### Yolo
 * [YOLO v1](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
 * [YOLO v1,v2,v3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
-* [Non-maximum Suppression (NMS)](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
+* [Non-maximum Suppression](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
+* [Anchor Boxes](https://medium.com/@andersasac/anchor-boxes-the-key-to-quality-object-detection-ddf9d612d4f9)
 
 
