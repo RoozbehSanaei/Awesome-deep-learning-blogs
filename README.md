@@ -64,6 +64,8 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [Xeption](https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568), With Depthwise Separable Convolution
 
+* [SqueezeNet](https://towardsdatascience.com/review-squeezenet-image-classification-e7414825581a)
+
 
 
 ##  Implementations
