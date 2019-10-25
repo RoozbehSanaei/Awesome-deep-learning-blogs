@@ -51,7 +51,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 <a name="github-tutorials" />
 
 ## Architecture
-### Residual Blocks
+### Residual Networks
 
 * [ResNet,ResNext,Deep Network with Stochastic Depth,Densely Connected CNN,ResNet as an Ensemble of Smaller Networks](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 
@@ -61,7 +61,9 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [Inverted Residuals and Linear Bottlenecks](https://towardsdatascience.com/mobilenetv2-inverted-residuals-and-linear-bottlenecks-8a4362f4ffd5)
 
+### Inception Networks
 
+* [Inception v1/v2/v4/Resnet](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
 
 
 ##  Implementations
