@@ -70,4 +70,4 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 ## Object Detection
 
 ### Yolo
-* [YOLO v1,v2,v3](https://medium.com/@venkatakrishna.jonnalagadda/object-detection-yolo-v1-v2-v3-c3d5eca2312a)
+* [YOLO](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
