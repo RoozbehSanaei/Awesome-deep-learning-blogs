@@ -52,11 +52,14 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 ## Architecture
 ### Residual Blocks
-* [Preactivation Resnet](https://towardsdatascience.com/resnet-with-identity-mapping-over-1000-layers-reached-image-classification-bb50a42af03e)
 
 * [ResNet,ResNext,Deep Network with Stochastic Depth,Densely Connected CNN,ResNet as an Ensemble of Smaller Networks](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 
-* [What are the differences between Highway Networks and Deep Residual Learning?](https://www.quora.com/What-are-the-differences-between-Highway-Networks-and-Deep-Residual-Learning)
+* [Preactivation Resnet](https://towardsdatascience.com/resnet-with-identity-mapping-over-1000-layers-reached-image-classification-bb50a42af03e)
+
+* [Highway vs Residual Networks?](https://www.quora.com/What-are-the-differences-between-Highway-Networks-and-Deep-Residual-Learning)
+
+* [Inverted Residuals and Linear Bottlenecks](https://towardsdatascience.com/mobilenetv2-inverted-residuals-and-linear-bottlenecks-8a4362f4ffd5)
 
 
 
