@@ -3,15 +3,7 @@
 A curated list of machine Leaning concepts, impelmentations, troubleshootings, ...
 
 
-## Machine Learning Concepts
-
-### Regularization
-
-* [Batch normalization](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c) 
-
-* [Label Smoothing](https://towardsdatascience.com/label-smoothing-making-model-robust-to-incorrect-labels-2fae037ffbd0) 
-
-* [Dropout Math](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275)
+## General Concepts
 
 ### Convolution
 
@@ -43,6 +35,14 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 
 <a name="github-tutorials" />
+
+### Regularization
+
+* [Batch normalization](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c) 
+
+* [Label Smoothing](https://towardsdatascience.com/label-smoothing-making-model-robust-to-incorrect-labels-2fae037ffbd0) 
+
+* [Dropout Math](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275)
 
 ## Image Classification
 ### Residual Networks
