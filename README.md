@@ -47,7 +47,10 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 ## Architecture
 ### Residual Networks
 
-* [ResNet,ResNext,Deep Network with Stochastic Depth,Densely Connected CNN,ResNet as an Ensemble of Smaller Networks](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+* [ResNet,ResNext,Deep Network with Stochastic Depth,Densenet,ResNet as an Ensemble of Smaller Networks](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+
+* [DenseNets](https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a)
+
 
 * [Preactivation Resnet](https://towardsdatascience.com/resnet-with-identity-mapping-over-1000-layers-reached-image-classification-bb50a42af03e)
 
