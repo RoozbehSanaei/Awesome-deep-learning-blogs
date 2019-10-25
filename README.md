@@ -1,4 +1,4 @@
-# Useful Machine Learning 
+# Deep Learning Blog Collection
 
 A curated list of machine Leaning concepts, impelmentations, troubleshootings, ...
 
