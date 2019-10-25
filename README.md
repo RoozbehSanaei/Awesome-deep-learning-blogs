@@ -2,13 +2,6 @@
 
 A curated list of machine Leaning concepts, impelmentations, troubleshootings, ...
 
-## Table of Contents
-
-<!-- MarkdownTOC depth=4 -->
-- [Machine Learning Concepts](#concepts)
-- [Tensorflow Implementation](#github-tutorials)
-
-<a name="concepts" />
 
 ## Machine Learning Concepts
 
@@ -72,6 +65,4 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [Yolov3 + Tensorflow 2](https://github.com/YunYang1994/tensorflow-yolov3) - Implementation of YOLO v3 object detector in Tensorflow 2.0
 
 * [Yolov3 + Tensorflow 1](https://github.com/qqwweee/keras-yolo3) - Implementation of YOLO v3 object detector in Tensorflow 1.6
-<!-- /MarkdownTOC -->
-
 
