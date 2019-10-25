@@ -63,7 +63,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 ### Inception Networks
 
-* [Inception v1/v2/v4/Resnet](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+* [Inception v1/v2/v3/v4/Resnet](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
 
 
 ##  Implementations
