@@ -44,7 +44,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 <a name="github-tutorials" />
 
-## Architecture
+## Image Classification
 ### Residual Networks
 
 * [ResNet,ResNext,Deep Network with Stochastic Depth,Densenet,ResNet as an Ensemble of Smaller Networks](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
@@ -65,6 +65,13 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [Xeption](https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568), With Depthwise Separable Convolution
 
 * [SqueezeNet](https://towardsdatascience.com/review-squeezenet-image-classification-e7414825581a)
+
+
+## Object Detection
+
+### Yolo
+* [YOLO v1,v2,v3](https://medium.com/@venkatakrishna.jonnalagadda/object-detection-yolo-v1-v2-v3-c3d5eca2312a)
+
 
 
 
