@@ -73,18 +73,18 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 ## Object Detection
 
-### Yolo
-* [YOLO v1](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
-* [YOLO v1,v2,v3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 * [Non-maximum Suppression](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
 * [Anchor Boxes](https://medium.com/@andersasac/anchor-boxes-the-key-to-quality-object-detection-ddf9d612d4f9)
 
+### Overfeat
+* [Ovefeat](https://towardsdatascience.com/object-localization-in-overfeat-5bb2f7328b62)
+
+### Yolo
+* [YOLO v1](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
+* [YOLO v1,v2,v3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
+
 ### RCNN
 * [RCNN, Fast RCNN, Faster RCNN](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
-
 * [Spatial Pyramid Pooling](https://medium.com/coinmonks/review-sppnet-1st-runner-up-object-detection-2nd-runner-up-image-classification-in-ilsvrc-906da3753679)
-
 * [Fast RCNN](https://towardsdatascience.com/fast-r-cnn-for-object-detection-a-technical-summary-a0ff94faa022)
-
 * [RCNN, Fast RCNN, SPP-Net,Faster RCNN](https://slideplayer.com/slide/13427815/)
-
