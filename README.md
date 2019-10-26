@@ -87,4 +87,5 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [RCNN, Fast RCNN, Faster RCNN](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
 * [Spatial Pyramid Pooling](https://medium.com/coinmonks/review-sppnet-1st-runner-up-object-detection-2nd-runner-up-image-classification-in-ilsvrc-906da3753679)
 * [Fast RCNN](https://towardsdatascience.com/fast-r-cnn-for-object-detection-a-technical-summary-a0ff94faa022)
+* [ROI Pooling](https://deepsense.ai/region-of-interest-pooling-explained/)
 * [RCNN, Fast RCNN, SPP-Net,Faster RCNN](https://slideplayer.com/slide/13427815/)
