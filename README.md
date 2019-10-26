@@ -77,3 +77,5 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 ### Retina Net
 * [Retina Net](https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de), Focal loss
 
+### UNet
+* [UNet](https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066), Upsampling
