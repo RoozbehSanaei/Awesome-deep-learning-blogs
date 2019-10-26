@@ -71,7 +71,7 @@ A curated list of machine Leaning blog posts
 * [Fast RCNN](https://towardsdatascience.com/fast-r-cnn-for-object-detection-a-technical-summary-a0ff94faa022), [ROI Pooling](https://deepsense.ai/region-of-interest-pooling-explained/)
 * [RCNN, Fast RCNN, SPP-Net,Faster RCNN](https://slideplayer.com/slide/13427815/)
 * [Faster RCNN](https://medium.com/@smallfishbigsea/faster-r-cnn-explained-864d4fb7e3f8), [Region Purpose Network](https://www.quora.com/How-does-the-region-proposal-network-RPN-in-Faster-R-CNN-work)
-* Mask RCNN : [Summary](https://medium.com/@tibastar/mask-r-cnn-d69aa596761f ), [Details](https://medium.com/@fractaldle/mask-r-cnn-unmasked-c029aa2f1296), 
+* [Mask RCNN ](https://medium.com/@tibastar/mask-r-cnn-d69aa596761f ), [Details](https://medium.com/@fractaldle/mask-r-cnn-unmasked-c029aa2f1296), 
 * [RFCN](https://medium.com/@jonathan_hui/understanding-region-based-fully-convolutional-networks-r-fcn-for-object-detection-828316f07c99)
 
 ### SSD
