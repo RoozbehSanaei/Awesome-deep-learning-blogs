@@ -82,5 +82,10 @@ A curated list of machine Leaning blog posts
 ### UNet
 * [UNet](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47), [Upsampling with transposed convolution](https://medium.com/activating-robotic-minds/up-sampling-with-transposed-convolution-9ae4f2df52d0)
 
+
+## Attention
+* [Attention](https://towardsdatascience.com/visual-attention-model-in-deep-learning-708813c2912c), 
+
+
 ## Super Resolution
 * [Survey](https://medium.com/beyondminds/an-introduction-to-super-resolution-using-deep-learning-f60aff9a499d)
