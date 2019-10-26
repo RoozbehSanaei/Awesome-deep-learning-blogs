@@ -77,7 +77,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [Anchor Boxes](https://medium.com/@andersasac/anchor-boxes-the-key-to-quality-object-detection-ddf9d612d4f9)
 
 ### Overfeat
-* [Ovefeat](https://towardsdatascience.com/object-localization-in-overfeat-5bb2f7328b62)
+* [Overfeat](https://towardsdatascience.com/object-localization-in-overfeat-5bb2f7328b62)
 
 ### Yolo
 * [YOLO v1](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
