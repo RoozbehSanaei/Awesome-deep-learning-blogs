@@ -72,4 +72,4 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [Faster RCNN](https://medium.com/@smallfishbigsea/faster-r-cnn-explained-864d4fb7e3f8), [Region Purpose Network](https://www.quora.com/How-does-the-region-proposal-network-RPN-in-Faster-R-CNN-work)
 
 ### SSD
-* [SSD](https://medium.com/inveterate-learner/real-time-object-detection-part-1-understanding-ssd-65797a5e675b
+* [RCNN, Fast RCNN, SPP-Net,Faster RCNN](https://medium.com/inveterate-learner/real-time-object-detection-part-1-understanding-ssd-65797a5e675b)
