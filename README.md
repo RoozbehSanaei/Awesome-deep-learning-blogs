@@ -48,7 +48,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 ### Inception Networks
 
 * [Inception v1/v2/v3/v4/Resnet](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202), split-transform-merge paradighm , auxiliary classifiers, 
-* [Xeption](https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568), With Depthwise Separable Convolution
+* [Xeption](https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568),Depthwise Separable Convolution
 * [SqueezeNet](https://towardsdatascience.com/review-squeezenet-image-classification-e7414825581a)
 
 
