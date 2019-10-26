@@ -82,7 +82,7 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 
 * [YOLO v1](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
 * [YOLO v2](https://medium.com/@y1017c121y/how-does-yolov2-work-daaaa967c5f7)
-
+* [YOLO v3](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
 
 ### RCNN
 * [RCNN, Fast RCNN, Faster RCNN](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
