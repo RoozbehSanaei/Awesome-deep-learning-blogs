@@ -75,9 +75,8 @@ A curated list of machine Leaning blog posts
 * [RFCN](https://medium.com/@jonathan_hui/understanding-region-based-fully-convolutional-networks-r-fcn-for-object-detection-828316f07c99)
 
 ### SSD
+[SSD, YOLO, FPN, Retina Net](https://medium.com/@jonathan_hui/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d)
 * [SSD](https://medium.com/inveterate-learner/real-time-object-detection-part-1-understanding-ssd-65797a5e675b)
-
-### Retina Net
 * [Retina Net](https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de), Focal loss
 
 ### UNet
