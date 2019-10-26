@@ -80,8 +80,10 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [Overfeat](https://towardsdatascience.com/object-localization-in-overfeat-5bb2f7328b62)
 
 ### Yolo
-* [YOLO v1](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
 * [YOLO v1,v2,v3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
+* [YOLO v1](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
+* [YOLO v2](https://medium.com/@y1017c121y/how-does-yolov2-work-daaaa967c5f7)
+
 
 ### RCNN
 * [RCNN, Fast RCNN, Faster RCNN](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
