@@ -78,4 +78,4 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [Retina Net](https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de), Focal loss
 
 ### UNet
-* [UNet](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47), Upsampling
+* [UNet](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47), [Upsampling with transposed convolution](https://medium.com/activating-robotic-minds/up-sampling-with-transposed-convolution-9ae4f2df52d0)
