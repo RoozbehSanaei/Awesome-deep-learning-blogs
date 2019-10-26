@@ -1,6 +1,6 @@
 # Deep Learning Blogs
 
-A curated list of machine Leaning concepts, impelmentations, troubleshootings, ...
+A curated list of machine Leaning blog posts 
 
 
 ## General Concepts
