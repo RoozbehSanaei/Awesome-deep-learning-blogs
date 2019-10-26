@@ -75,5 +75,5 @@ A curated list of machine Leaning concepts, impelmentations, troubleshootings, .
 * [SSD](https://medium.com/inveterate-learner/real-time-object-detection-part-1-understanding-ssd-65797a5e675b)
 
 ### Retina Net
-* [Retina Net](https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de)
+* [Retina Net](https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de), Focal loss
 
