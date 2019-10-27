@@ -1,6 +1,6 @@
 # Deep Learning Blogs
 
-A curated list of deep learning blog posts 
+A curated list of computer vision deep learning blog posts 
 
 
 ## General Concepts
