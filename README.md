@@ -80,10 +80,11 @@ A curated list of computer vision deep learning blog posts
 * [Retina Net](https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de), Focal loss
 
 ### Semanitc Segmentation
+* [Hourglass Paradigm](https://medium.com/@sunnerli/simple-introduction-about-hourglass-like-model-11ee7c30138)
+* [Deeplab](https://towardsdatascience.com/the-evolution-of-deeplab-for-semantic-segmentation-95082b025571)
 * [Survey](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57)
 * [UNet](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47), [Upsampling with transposed convolution](https://medium.com/activating-robotic-minds/up-sampling-with-transposed-convolution-9ae4f2df52d0)
-* [Deeplab](https://towardsdatascience.com/the-evolution-of-deeplab-for-semantic-segmentation-95082b025571)
-* [Hourglass Paradigm](https://medium.com/@sunnerli/simple-introduction-about-hourglass-like-model-11ee7c30138)
+
 
 ## Attention
 * [Attention](https://towardsdatascience.com/visual-attention-model-in-deep-learning-708813c2912c), 
