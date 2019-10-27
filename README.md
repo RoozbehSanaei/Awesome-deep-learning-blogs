@@ -98,4 +98,4 @@ A curated list of computer vision deep learning blog posts
 * [GAN Applications and Challenges](https://medium.com/@jonathan_hui/gan-a-comprehensive-review-into-the-gangsters-of-gans-part-1-95ff52455672)
 * [GAN Architecture and Cost functions](https://medium.com/@jonathan_hui/gan-a-comprehensive-review-into-the-gangsters-of-gans-part-2-73233a670d19)
 * [CycleGAN](https://towardsdatascience.com/cyclegan-learning-to-translate-images-without-paired-training-data-5b4e93862c8d), [Diagram](http://shikib.com/CycleGan.html)
-
+* [SRGAN](https://medium.com/@jonathan_hui/gan-super-resolution-gan-srgan-b471da7270ec)
