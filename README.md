@@ -80,8 +80,8 @@ A curated list of deep learning blog posts
 * [Retina Net](https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de), Focal loss
 
 ### Semanitc Segmentation
+* [Survey](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57)
 * [UNet](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47), [Upsampling with transposed convolution](https://medium.com/activating-robotic-minds/up-sampling-with-transposed-convolution-9ae4f2df52d0)
-* [Semantic Segmentation](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57)
 * [Deeplab](https://towardsdatascience.com/the-evolution-of-deeplab-for-semantic-segmentation-95082b025571)
 
 ## Attention
