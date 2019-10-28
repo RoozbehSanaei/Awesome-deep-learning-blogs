@@ -112,4 +112,4 @@ A curated list of computer vision deep learning blog posts
 
 ## Visualization
 * [Class Activation Maps](https://jacobgil.github.io/deeplearning/class-activation-maps)
-* [Hyper Columns](https://jacobgil.github.io/deeplearning/vehicle-steering-angle-visualizations)
+* [Hyper Columns](http://blog.christianperone.com/2016/01/convolutional-hypercolumns-in-python/)
