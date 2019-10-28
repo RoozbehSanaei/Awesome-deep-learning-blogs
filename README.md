@@ -111,4 +111,5 @@ A curated list of computer vision deep learning blog posts
 * [Quantization](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
 
 ## Visualization
-* [Quantization](https://jacobgil.github.io/deeplearning/vehicle-steering-angle-visualizations)
+* [Visualization](https://jacobgil.github.io/deeplearning/vehicle-steering-angle-visualizations)
+* [Hyper Columns](https://jacobgil.github.io/deeplearning/vehicle-steering-angle-visualizations)
