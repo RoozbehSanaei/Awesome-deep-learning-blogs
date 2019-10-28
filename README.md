@@ -96,8 +96,9 @@ A curated list of computer vision deep learning blog posts
 ## GAN
 * [Introduction](https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09)
 * [GAN Applications and Challenges](https://medium.com/@jonathan_hui/gan-a-comprehensive-review-into-the-gangsters-of-gans-part-1-95ff52455672)
-* [GAN Architecture and Cost functions](https://medium.com/@jonathan_hui/gan-a-comprehensive-review-into-the-gangsters-of-gans-part-2-73233a670d19)
+* [GAN Architecture and Objective functions](https://medium.com/@jonathan_hui/gan-a-comprehensive-review-into-the-gangsters-of-gans-part-2-73233a670d19)
 * [CycleGAN](https://towardsdatascience.com/cyclegan-learning-to-translate-images-without-paired-training-data-5b4e93862c8d), [Diagram](http://shikib.com/CycleGan.html)
 * [Super Resolution GAN](https://medium.com/@jonathan_hui/gan-super-resolution-gan-srgan-b471da7270ec)
 * [Self Attention GAN](https://towardsdatascience.com/not-just-another-gan-paper-sagan-96e649f01a6b),[More](https://medium.com/@jonathan_hui/gan-self-attention-generative-adversarial-networks-sagan-923fccde790c),[Spectral Normalization](https://christiancosgrove.com/blog/2018/01/04/spectral-normalization-explained.html) 
 * [DCGAN](https://towardsdatascience.com/deeper-into-dcgans-2556dbd0baac)
+* [Objective Function](https://towardsdatascience.com/gan-objective-functions-gans-and-their-variations-ad77340bce3c)
