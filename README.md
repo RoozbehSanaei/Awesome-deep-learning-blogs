@@ -106,6 +106,8 @@ A curated list of computer vision deep learning blog posts
 ### Challenges
 * [Cost Function Impact](https://medium.com/@jonathan_hui/gan-does-lsgan-wgan-wgan-gp-or-began-matter-e19337773233)
 
-## Pruning
+## Efficiecy Boosts
 * [Pruning](https://medium.com/@jonathan_hui/gan-does-lsgan-wgan-wgan-gp-or-began-matter-e19337773233)
+* [Quantization](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
+
 
