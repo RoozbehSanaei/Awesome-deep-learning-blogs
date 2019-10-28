@@ -101,4 +101,4 @@ A curated list of computer vision deep learning blog posts
 * [Super Resolution GAN](https://medium.com/@jonathan_hui/gan-super-resolution-gan-srgan-b471da7270ec)
 * [Self Attention GAN](https://towardsdatascience.com/not-just-another-gan-paper-sagan-96e649f01a6b),[More](https://medium.com/@jonathan_hui/gan-self-attention-generative-adversarial-networks-sagan-923fccde790c),[Spectral Normalization](https://christiancosgrove.com/blog/2018/01/04/spectral-normalization-explained.html) 
 * [DCGAN](https://towardsdatascience.com/deeper-into-dcgans-2556dbd0baac)
-* [Objective Function](https://towardsdatascience.com/gan-objective-functions-gans-and-their-variations-ad77340bce3c)
+* [Objective Functions](https://towardsdatascience.com/gan-objective-functions-gans-and-their-variations-ad77340bce3c)
