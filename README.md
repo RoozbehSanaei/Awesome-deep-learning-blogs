@@ -111,5 +111,6 @@ A curated list of computer vision deep learning blog posts
 * [Quantization](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
 
 ## Visualization
+* [Class Activation Maps](https://towardsdatascience.com/visual-interpretability-for-convolutional-neural-networks-2453856210ce)
 * [Class Activation Maps](https://jacobgil.github.io/deeplearning/class-activation-maps)
 * [Hypercolumns](http://blog.christianperone.com/2016/01/convolutional-hypercolumns-in-python/)
