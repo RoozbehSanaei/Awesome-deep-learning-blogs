@@ -87,6 +87,7 @@ A curated list of computer vision deep learning blog posts
 
 
 ## Attention
+* [Overview](https://medium.com/@sunnerli/visual-attention-in-deep-learning-77653f611855), 
 * [Attention](https://towardsdatascience.com/visual-attention-model-in-deep-learning-708813c2912c), 
 
 
