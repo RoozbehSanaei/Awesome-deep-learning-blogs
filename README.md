@@ -112,7 +112,7 @@ A curated list of computer vision deep learning blog posts
 * [Knowledge Distillation](https://medium.com/neuralmachine/knowledge-distillation-dc241d7c2322)
 
 ## Visualization
-* [Class Activation Maps](https://towardsdatascience.com/visual-interpretability-for-convolutional-neural-networks-2453856210ce)
+* [Overview](https://towardsdatascience.com/visual-interpretability-for-convolutional-neural-networks-2453856210ce)
 * [Class Activation Maps](https://jacobgil.github.io/deeplearning/class-activation-maps)
 * [Hypercolumns](http://blog.christianperone.com/2016/01/convolutional-hypercolumns-in-python/)
 
