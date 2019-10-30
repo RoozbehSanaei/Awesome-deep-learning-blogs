@@ -109,6 +109,7 @@ A curated list of computer vision deep learning blog posts
 ## Efficiecy Boosts
 * [Pruning](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
 * [Quantization](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
+* [Knowledge Distillation](https://medium.com/neuralmachine/knowledge-distillation-dc241d7c2322)
 
 ## Visualization
 * [Class Activation Maps](https://towardsdatascience.com/visual-interpretability-for-convolutional-neural-networks-2453856210ce)
@@ -116,7 +117,4 @@ A curated list of computer vision deep learning blog posts
 * [Hypercolumns](http://blog.christianperone.com/2016/01/convolutional-hypercolumns-in-python/)
 
 ## 3D
-* [Mesh RCNN](https://ai.facebook.com/blog/pushing-state-of-the-art-in-3d-content-understanding) (incomplete)
-
-## Accelerators
 * [Mesh RCNN](https://ai.facebook.com/blog/pushing-state-of-the-art-in-3d-content-understanding) (incomplete)
