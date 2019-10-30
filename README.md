@@ -116,4 +116,7 @@ A curated list of computer vision deep learning blog posts
 * [Hypercolumns](http://blog.christianperone.com/2016/01/convolutional-hypercolumns-in-python/)
 
 ## 3D
-* [Mesh RCNN](https://ai.facebook.com/blog/pushing-state-of-the-art-in-3d-content-understanding)
+* [Mesh RCNN](https://ai.facebook.com/blog/pushing-state-of-the-art-in-3d-content-understanding) (incomplete)
+
+## Accelerators
+* [Mesh RCNN](https://ai.facebook.com/blog/pushing-state-of-the-art-in-3d-content-understanding) (incomplete)
