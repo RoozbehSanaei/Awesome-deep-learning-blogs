@@ -111,6 +111,7 @@ A curated list of computer vision deep learning blog posts
 * [Pruning](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
 * [Quantization](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b)
 * [Knowledge Distillation](https://medium.com/neuralmachine/knowledge-distillation-dc241d7c2322)
+* [Model Compression](https://medium.com/zylapp/deep-learning-model-compression-for-image-analysis-methods-and-architectures-398f82b0c06f)
 
 ## Visualization
 * [Overview](https://towardsdatascience.com/visual-interpretability-for-convolutional-neural-networks-2453856210ce)
