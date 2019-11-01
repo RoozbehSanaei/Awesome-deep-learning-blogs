@@ -120,3 +120,7 @@ A curated list of computer vision deep learning blog posts
 
 ## 3D
 * [Mesh RCNN](https://ai.facebook.com/blog/pushing-state-of-the-art-in-3d-content-understanding) (incomplete)
+
+## Conventional CV tasks with Deep Learning
+* [Fix Illumination](https://medium.com/@SaiAkhilAloor/theres-light-even-in-the-darkest-places-b5e697f472f2)
+
