@@ -1,6 +1,6 @@
 # Deep Learning Blogs
 
-A curated list of computer vision deep learning blog posts 
+A curated list of computer vision deep learning blog posts  (mostly from Medium)
 
 
 ## General Concepts
@@ -124,3 +124,6 @@ A curated list of computer vision deep learning blog posts
 ## Conventional CV tasks with Deep Learning
 * [Fix Illumination](https://medium.com/@SaiAkhilAloor/theres-light-even-in-the-darkest-places-b5e697f472f2)
 
+
+## Bayesian
+* [Bayesian](https://medium.com/neuralspace/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2)
