@@ -131,6 +131,6 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 # Implementation
 * [Keras](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo)
 
-# Colab
+## Colab
 * [Keras Checkpoints](https://medium.com/@mukesh.kumar43585/model-checkpoint-google-colab-and-drive-as-persistent-storage-for-long-training-runs-e35ffa0c33d9)
 
