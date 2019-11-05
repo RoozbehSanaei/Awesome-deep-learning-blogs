@@ -83,7 +83,7 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 * [Hourglass Paradigm](https://medium.com/@sunnerli/simple-introduction-about-hourglass-like-model-11ee7c30138)
 * [Deeplab](https://towardsdatascience.com/the-evolution-of-deeplab-for-semantic-segmentation-95082b025571)
 * [Survey](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57)
-* [UNet](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47), [Upsampling with transposed convolution](https://medium.com/activating-robotic-minds/up-sampling-with-transposed-convolution-9ae4f2df52d0)
+* [UNet](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47), [Upsampling with transposed convolution](https://towardsdatascience.com/convnets-series-spatial-transformer-networks-cff47565ae81)
 
 
 ## Attention
@@ -92,6 +92,8 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 * [Attention For Text Recognition](https://nanonets.com/blog/attention-ocr-for-text-recogntion/)
 * [Self Attention](https://towardsdatascience.com/self-attention-in-computer-vision-2782727021f6)
 * [Learn to Pay Attention](https://towardsdatascience.com/learn-to-pay-attention-trainable-visual-attention-in-cnns-87e2869f89f1)
+* [Spatial Transformer Netowkorks](https://towardsdatascience.com/learn-to-pay-attention-trainable-visual-attention-in-cnns-87e2869f89f1)
+
 
 ## Super Resolution
 * [Survey](https://medium.com/beyondminds/an-introduction-to-super-resolution-using-deep-learning-f60aff9a499d)
