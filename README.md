@@ -90,6 +90,7 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 * [Overview](https://medium.com/@sunnerli/visual-attention-in-deep-learning-77653f611855)
 * [Attention](https://towardsdatascience.com/visual-attention-model-in-deep-learning-708813c2912c)
 * [Self Attention](https://towardsdatascience.com/self-attention-in-computer-vision-2782727021f6)
+* [Learn to Pay Attention](https://towardsdatascience.com/learn-to-pay-attention-trainable-visual-attention-in-cnns-87e2869f89f1)
 
 ## Super Resolution
 * [Survey](https://medium.com/beyondminds/an-introduction-to-super-resolution-using-deep-learning-f60aff9a499d)
