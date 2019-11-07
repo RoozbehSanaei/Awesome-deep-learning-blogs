@@ -1,9 +1,9 @@
-# Deep Learning minimal implementations
+# Deep Learning minimal codes
 
-A curated list of computer vision deep learning implementations that are clear, minimal and readible 
+A curated list of computer vision deep learning codess that are clear, minimal and readible 
 
 ## Attention
-*Learn to pay attention: [Paper](http://www.robots.ox.ac.uk/~tvg/publications/2018/LearnToPayAttention_v5.pdf),[Implementation](https://github.com/SaoYan/LearnToPayAttention)
+*Learn to pay attention: [paper](http://www.robots.ox.ac.uk/~tvg/publications/2018/LearnToPayAttention_v5.pdf),[code](https://github.com/SaoYan/LearnToPayAttention)
 
 
 
