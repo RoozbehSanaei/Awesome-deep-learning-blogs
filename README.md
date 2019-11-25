@@ -121,7 +121,7 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 * [Overview](https://towardsdatascience.com/visual-interpretability-for-convolutional-neural-networks-2453856210ce)
 * [Class Activation Maps](https://jacobgil.github.io/deeplearning/class-activation-maps)
 * [Hypercolumns](http://blog.christianperone.com/2016/01/convolutional-hypercolumns-in-python/)
-* [Visualization through optimization] https://distill.pub/2017/feature-visualization/
+* [Visualization through optimization](https://distill.pub/2017/feature-visualization/)
 
 ## 3D
 * [Mesh RCNN](https://ai.facebook.com/blog/pushing-state-of-the-art-in-3d-content-understanding) (incomplete)
