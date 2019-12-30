@@ -7,9 +7,9 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 
 ###  Accuracy Metrics
 
-* [RMSE,MAE, R Squared and Adjusted R Squared, BLEU] (https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4) 
+* [RMSE,MAE, R Squared and Adjusted R Squared, BLEU](https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4) 
 
-* [Recall, Specificity, Precision,False Positive Rate,False Negative Rate,ROC-AUC ] (https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428) 
+* [Recall, Specificity, Precision,False Positive Rate,False Negative Rate,ROC-AUC ](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428) 
 
 
 
