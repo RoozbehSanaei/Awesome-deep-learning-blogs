@@ -5,6 +5,11 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 
 ## General Concepts
 
+### Classification Accuracy
+
+* [RMSE,MAE, R Squared and Adjusted R Squared, BLEU] (https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4) 
+
+
 ### Convolution
 
 * [2D , 3D , 1x1 , Transposed , Dilated (Atrous) , Spatially Separable , Depthwise Separable , Flattened , Grouped , Shuffled Grouped Convolutions](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)  
