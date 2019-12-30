@@ -7,7 +7,7 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 
 ### Classification Accuracy
 
-* [RMSE,MAE, R Squared and Adjusted R Squared, BLEU] (https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4) 
+* [RMSE,MAE, R Squared and Adjusted R Squared, BLEU](https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4) 
 
 
 ### Convolution
