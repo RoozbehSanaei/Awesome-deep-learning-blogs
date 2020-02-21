@@ -6,6 +6,7 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 ## General Concepts
 
 ###  Accuracy Metrics
+* [MutliClass Metrics] I https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2 II https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1
 
 * [RMSE,MAE, R Squared and Adjusted R Squared, BLEU](https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4) 
 
