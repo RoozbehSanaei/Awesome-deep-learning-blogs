@@ -1,4 +1,4 @@
-# Awesome Deep learning blogs
+# Awesome deep learning blogs
 
 A curated list of computer vision deep learning blog posts  (mostly from Medium)
 
