@@ -143,5 +143,5 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 
 
 # Implementation
-* [Keras](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo
+* [Keras] (https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo)
 
