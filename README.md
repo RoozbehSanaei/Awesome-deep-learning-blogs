@@ -102,7 +102,7 @@ A curated list of deep learning blog posts  (mostly from Medium)
 * [Attention For Text Recognition](https://nanonets.com/blog/attention-ocr-for-text-recogntion/)
 * [Self Attention](https://towardsdatascience.com/self-attention-in-computer-vision-2782727021f6)
 * [Learn to Pay Attention](https://towardsdatascience.com/learn-to-pay-attention-trainable-visual-attention-in-cnns-87e2869f89f1)
-* [Spatial Transformer Netowkorks](https://towardsdatascience.com/learn-to-pay-attention-trainable-visual-attention-in-cnns-87e2869f89f1)
+* [Spatial Transformer Networks](https://towardsdatascience.com/learn-to-pay-attention-trainable-visual-attention-in-cnns-87e2869f89f1)
 
 
 ## Super Resolution
