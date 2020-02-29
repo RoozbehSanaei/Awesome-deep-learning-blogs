@@ -135,7 +135,7 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 * [Bayesian](https://medium.com/neuralspace/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2)
 
 # Ensemble Models
-[Boosting,Bagging,Bootstrapping,Stacking] (https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+[Boosting,Bagging,Bootstrapping,Stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
 
 # Implementation
 * [Keras] (https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo)
