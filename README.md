@@ -142,8 +142,8 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 * [Idiomatic Keras Programming](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo)
 
 # Debugging Checklists
-* [Debugging Checklist] (https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
-* [Validation Accuracy Not Improving] (https://stackoverflow.com/questions/37020754/how-to-increase-validation-accuracy-with-deep-neural-net)
-* [Debugging Checklist 2] (https://towardsdatascience.com/checklist-for-debugging-neural-networks-d8b2a9434f21)
-* [Debugging Tricks] (https://stats.stackexchange.com/questions/352036/what-should-i-do-when-my-neural-network-doesnt-learn)
-* [Overfitting Checklist] (https://towardsdatascience.com/5-techniques-to-prevent-overfitting-in-neural-networks-e05e64f9f07)
+* [Debugging Checklist](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
+* [Validation Accuracy Not Improving](https://stackoverflow.com/questions/37020754/how-to-increase-validation-accuracy-with-deep-neural-net)
+* [Debugging Checklist 2](https://towardsdatascience.com/checklist-for-debugging-neural-networks-d8b2a9434f21)
+* [Debugging Tricks](https://stats.stackexchange.com/questions/352036/what-should-i-do-when-my-neural-network-doesnt-learn)
+* [Overfitting Checklist](https://towardsdatascience.com/5-techniques-to-prevent-overfitting-in-neural-networks-e05e64f9f07)
