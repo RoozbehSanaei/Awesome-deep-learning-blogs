@@ -22,7 +22,7 @@ A curated list of deep learning blog posts  (mostly from Medium)
 * [RMSprop,RProp,Adagrad](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a)
 * [Batch,Stochastic,Mini-batch gradient descent,Momentum,Nesterov accelerated gradient,Adagrad,Adadelta,RMSprop,Adam,AdaMax,Nadam,AMSGrad](https://ruder.io/optimizing-gradient-descent/index.html#nesterovacceleratedgradient)
 * [Stochastic,Mini-batch gradient descent,Momentum,Nesterov accelerated gradient,RProp,RMSProp](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) 
-* [Weight Initialization] (https://towardsdatascience.com/weight-initialization-techniques-in-neural-networks-26c649eb3b78)
+* [Weight Initialization](https://towardsdatascience.com/weight-initialization-techniques-in-neural-networks-26c649eb3b78)
 
 ### Activation Functions
 
