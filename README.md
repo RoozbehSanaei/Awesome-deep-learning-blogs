@@ -1,6 +1,6 @@
 # Awesome deep learning blogs
 
-A curated list of computer vision deep learning blog posts  (mostly from Medium)
+A curated list of deep learning blog posts  (mostly from Medium)
 
 
 ## General Concepts
