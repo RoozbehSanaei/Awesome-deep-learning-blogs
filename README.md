@@ -132,15 +132,10 @@ A curated list of computer vision deep learning blog posts  (mostly from Medium)
 * [Hypercolumns](http://blog.christianperone.com/2016/01/convolutional-hypercolumns-in-python/)
 * [Visualization through optimization](https://distill.pub/2017/feature-visualization/)
 
-## 3D
-* [Mesh RCNN](https://ai.facebook.com/blog/pushing-state-of-the-art-in-3d-content-understanding) (incomplete)
-
-## Conventional CV tasks with Deep Learning
-* [Fix Illumination](https://medium.com/@SaiAkhilAloor/theres-light-even-in-the-darkest-places-b5e697f472f2)
-
-## Bayesian
 * [Bayesian](https://medium.com/neuralspace/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2)
 
+# Ensemble Models
+[Boosting,Bagging,Bootstrapping,Stacking] (https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
 
 # Implementation
 * [Keras] (https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo)
