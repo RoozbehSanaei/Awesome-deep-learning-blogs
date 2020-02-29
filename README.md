@@ -7,9 +7,7 @@ A curated list of deep learning blog posts  (mostly from Medium)
 
 ###  Accuracy Metrics
 * [Multiclass metrics I,](https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2) [II,](https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1) 
-
 * [RMSE,MAE, R Squared and Adjusted R Squared, BLEU](https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4) 
-
 * [Recall, Specificity, Precision,False Positive Rate,False Negative Rate,ROC-AUC ](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428) 
 
 
