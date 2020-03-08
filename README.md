@@ -115,6 +115,7 @@ A curated list of deep learning blog posts  (mostly from Medium)
 * [Self Attention GAN](https://towardsdatascience.com/not-just-another-gan-paper-sagan-96e649f01a6b),[More](https://medium.com/@jonathan_hui/gan-self-attention-generative-adversarial-networks-sagan-923fccde790c),[Spectral Normalization](https://christiancosgrove.com/blog/2018/01/04/spectral-normalization-explained.html) 
 * [DCGAN](https://towardsdatascience.com/deeper-into-dcgans-2556dbd0baac)
 * [Objective Functions](https://towardsdatascience.com/gan-objective-functions-gans-and-their-variations-ad77340bce3c)
+* [VAE GAN](https://towardsdatascience.com/what-the-heck-are-vae-gans-17b86023588a)
 
 ### Challenges
 * [Cost Function Impact](https://medium.com/@jonathan_hui/gan-does-lsgan-wgan-wgan-gp-or-began-matter-e19337773233)
