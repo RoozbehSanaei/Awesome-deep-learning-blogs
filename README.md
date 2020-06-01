@@ -1,4 +1,4 @@
-# Awesome deep learning blogs
+# Deep learning blogs
 <!--- Roozbeh Sanaei ---> 
 A curated list of deep learning blog posts  (mostly from Medium)
 
